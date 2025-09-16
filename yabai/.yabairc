@@ -1,0 +1,6 @@
+#!/bin/bash
+
+yabai -m signal --add event=window_created action="$HOME/.local/switch-flow/scripts/handle_window_created.sh" &
+yabai -m signal --add event=window_destroyed action="$HOME/.local/switch-flow/scripts/refresh_window_list.sh" &
+yabai -m signal --add event=window_title_changed action="$HOME/.local/switch-flow/scripts/refresh_window_list.sh" &
+yabai -m signal --add event=window_focused action="$HOME/.local/switch-flow/scripts/window_focused.sh" &

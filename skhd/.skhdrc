@@ -1,0 +1,25 @@
+cmd + lshift - p : $HOME/.local/switch-flow/scripts/setup_chrome_for_work.sh
+
+cmd + lshift - 1 : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "1" &
+cmd + lshift - 2 : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "2" &
+cmd + lshift - 3 : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "3" &
+                                
+cmd + lshift - q : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "q" &
+cmd + lshift - w : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "w" &
+cmd + lshift - e : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "e" &
+                                
+cmd + lshift - a : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "a" &
+cmd + lshift - s : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "s" &
+cmd + lshift - d : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "d" &
+
+cmd + lshift - 7 : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "7" &
+cmd + lshift - 8 : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "8" &
+cmd + lshift - 9 : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "9" &
+                                
+cmd + lshift - u : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "u" &
+cmd + lshift - i : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "i" &
+cmd + lshift - o : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "o" &
+                                
+cmd + lshift - j : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "j" &
+cmd + lshift - k : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "k" &
+cmd + lshift - l : $HOME/.local/switch-flow/scripts/cycle_focus_window.sh "l" &
